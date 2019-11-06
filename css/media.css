@@ -1,0 +1,238 @@
+@media only screen and (min-width:992px){
+    .divwordsheader,.sectabel{
+        padding-left: 300px;
+        padding-right: 400px;
+        padding-top: 150px;
+    }
+    .divlogo{
+        padding-left: 300px;
+        padding-top: 20px;
+
+    }
+    .p1header{
+        width: 270px;
+    }
+    .div1,.div4{
+        padding-left: 300px;
+        padding-top: 100px;
+        display: flex;
+        flex-direction: row;
+    }
+    .div3{
+      /*  padding-left: 300px;
+        padding-right: 400px;
+        padding-top: 100px;
+        padding-bottom: 100px;*/
+        width: 100%;
+    min-height: 600px;
+      display: flex;
+    
+      align-items: center;
+      padding-left: 300px;
+      padding-right: 100px;
+    }
+    .protate{
+        width:20%;
+    transform: rotate(90deg);
+    }
+   .sec1div3{
+       flex:80%;
+   }
+   .p1div3{
+       width: 90%;
+   }
+   
+   .devices{
+       display: flex;
+       flex-direction: column;
+         align-items: center;
+         text-align: center;
+       justify-content: center;
+   }
+  .imgsmaldevices{
+      padding:30px;
+  }
+    .divpourread{
+     margin-left: 90px;
+
+    }
+    .divtable{
+        margin-left: 130px;
+       }
+    .div1word{
+        width:40%;
+        margin-bottom: 300px;
+        padding-top: 100px;
+    }
+    .divhrec,.divhrserv,.hrsec1div3,.p1div3,.hshow,.pshowlife,.hourserv{
+      margin-bottom: 50px;
+    }
+   
+    .div2{
+        min-height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .hourworks{
+        margin-right: 60px;
+    }
+    .pourworks,.divpourread{
+        width: 570px;
+    }
+   
+    .radio{
+        margin-right: 40px;
+
+    }
+  
+    form{
+        padding-top: 20px;
+        padding-bottom: 100px;
+    }
+    .sec1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .labeltable{
+        margin-left: 175px;
+    }
+    .sec2{
+        margin-top: 80px;
+        margin-bottom: 20px;
+    }
+    /*hr{
+        margin-left: 175px;
+        margin-top: 10px;
+        margin-bottom: 60px;
+        height:1px ;
+        width: 800px;
+        border:none;
+        background-color: rgb(87, 85, 85);
+
+    }*/
+    .sq{
+        background-color:#fff ;
+        height: 100px;
+        width: 100px;
+        margin-right: 50px;
+    margin-bottom: 10px;
+    }
+    .sq3G2{
+        background-color: #000000;
+        color: #eee;
+    }
+    .sec3{
+    display: flex;
+    }
+    .pdiv1sec3{
+      margin-right: 350px; 
+    }
+    .div1sec3{
+        margin-left: 175px;
+    }
+   .div5{
+    text-align: center;
+    padding-top: 70px;
+    padding-right: 200px;
+    padding-left: 200px;
+   }
+   .imgs{
+    height: 120px;
+    width: 150px;
+}
+.Layer{
+    height: 150px;
+    width: 150px;
+}
+}
+@media only screen and (max-width:700px){
+    .divwordsheader,.sectabel{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 200px;
+    }   
+    .divlogo{
+        padding-left: 100px;
+        padding-top: 50px;
+
+    }
+    .divhrec,.divhrserv,.hrsec1div3,.p1div3,.hshow,.pshowlife,.hourserv{
+        margin-bottom: 40px;
+      }
+      .btnsub{
+          margin-top: 40px;
+      }
+      .div1,.div4{
+        padding-left: 100px;
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+    .div3{
+          width: 100%;
+      min-height: 600px;
+        display: flex;
+        flex-direction: column;      
+        align-items: center;
+        padding-left: 50px;
+        padding-right: 50px;
+      }
+      .devices{
+        display: flex;
+        flex-direction: column;
+          align-items: center;
+          text-align: center;
+        justify-content: center;
+    }
+    .protate{
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+    .div2{
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+    .div5{
+        text-align: center;
+        padding-top: 70px;
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-bottom: 20px;
+       }
+       .imgdiv5{
+           height:300px ;
+           width: 350px;
+           margin-bottom: 20px;
+       }
+       .sq{
+        background-color:#fff ;
+        height: 80px;
+        width: 80px;
+        margin-right: 30px;
+    margin-bottom: 5px;
+    text-align: center;
+    }
+    .sq3G2{
+        background-color: #000000;
+        color: #eee;
+    }
+    .groups{
+        margin-top: 30px;
+    }
+    .imgs{
+        height: 80px;
+        width: 100px;
+    }
+    .Layer{
+        height: 100px;
+        width: 100px;
+    }
+}
